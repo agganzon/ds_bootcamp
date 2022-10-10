@@ -1,0 +1,4 @@
+name;age;address
+Josue;20;Makati
+Simon;18;Pasig
+Matthew;19;Cainta

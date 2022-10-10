@@ -1,0 +1,11 @@
+Beautiful Soup
+https://www.pds.com.ph/index.html%3Fpage_id=1384.html
+https://covid19.who.int/region/wpro/country/ph
+
+Other webscraper:
+Scrapy
+Selenium - library
+
+API
+https://covidtracking.com/data/api
+https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html
